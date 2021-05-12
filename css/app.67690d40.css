@@ -1,0 +1,1 @@
+*,:after,:before{box-sizing:border-box;margin:0;padding:0}.board,.game{display:flex}.board{flex-direction:column}.score{margin:10px;font-size:18px;font-weight:700;color:brown}.cell,.row{display:flex}.cell{height:40px;width:40px;font-size:20px;font-weight:700;justify-content:center;align-items:center;border:1px solid #ccc;box-sizing:border-box}
