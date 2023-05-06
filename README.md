@@ -1,5 +1,7 @@
 # snake-game
 
+Play at: https://nabilanam.github.io/vue-snake-game/
+
 ## Project setup
 ```
 npm install
